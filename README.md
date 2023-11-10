@@ -1,16 +1,23 @@
-### Hi there 👋
+### Jennifer Lopez --- @Jen-464
 
-<!--
-**Jen-464/Jen-464** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- socials badge imgs -->
+[linkin badge]:https://tinyurl.com/linkedin-badge
+[leetcode badge]:https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06
+[portfolio badge]:https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139
+[github badge]:https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on refining my Software Engineering / Frontend Development skills
+- 🌱 I’m currently learning
+  - React
+  - MongoDB
+  - CSS Framework (Tailwind CSS)
+  - JavaScript Frameworks (Angular, Next.js)
+- 👯 I’m looking to collaborate on full stack projects
+- 🤔 I’m looking for help with connections so we can help each other out!
+- 📫 How to reach me: jenniferlopezh0@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn][linkin badge]](https://www.linkedin.com/in/jen464/)
+[![LeetCode][leetcode badge]](https://leetcode.com/Jen-464/)
+[![Portfolio][portfolio badge]](https://jen-464.github.io/PortfolioGC/)
+[![GitHub][github badge]](https://github.com/Jen-464)
+
