@@ -6,6 +6,10 @@
 [portfolio badge]:https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139
 [github badge]:https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white
 
+Hey there :wave:
+
+My name is Jennifer Lopez located in the Central Coast of California :city_sunrise:. I have a Software Engineering degree with a strong :sparkles: fascination in Frontend Developing. I am looking for a remote or hybrid position within my field!
+
 - 🔭 I’m currently working on refining my Software Engineering / Frontend Development skills
 - 🌱 I’m currently learning
   - React
