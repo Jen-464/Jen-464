@@ -8,17 +8,13 @@
 
 Hey there :wave:
 
-My name is Jennifer Lopez located in the Central Coast of California :city_sunrise:. I have a Software Engineering degree with a strong :sparkles: fascination in Frontend Developing. I am looking for a remote or hybrid position within my field!
+My name is Jennifer Lopez located in the Central Coast of California :city_sunrise:. I am a Software Engineering degree with a focus on Frontend Engineering.
 
-- 🔭 I’m currently working on refining my Software Engineering / Frontend Development skills
+- 🔭 I’m currently working on refining my Software Engineering skills
 - 🌱 I’m currently learning
   - React
-  - MongoDB
-  - CSS Framework (Tailwind CSS)
-  - JavaScript Frameworks (Angular, Next.js)
-- 👯 I’m looking to collaborate on full stack projects
-- 🤔 I’m looking for help with connections so we can help each other out!
-- 📫 How to reach me: jenniferlopezh0@gmail.com
+  - JavaScript XML (JSX)
+  - Material UI (MUI)
 
 [![LinkedIn][linkin badge]](https://www.linkedin.com/in/jen464/)
 [![LeetCode][leetcode badge]](https://leetcode.com/Jen-464/)
