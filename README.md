@@ -8,9 +8,8 @@
 
 Hey there :wave:
 
-My name is Jennifer Lopez located in the Central Coast of California :city_sunrise:. I am a Software Engineering degree with a focus on Frontend Engineering.
+My name is Jennifer Lopez located in the Central Coast of California :city_sunrise:. I am a Software Engineer with a focus on Frontend Engineering.
 
-- 🔭 I’m currently working on refining my Software Engineering skills
 - 🌱 I’m currently learning
   - React
   - JavaScript XML (JSX)
